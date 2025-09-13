@@ -1,0 +1,209 @@
+#EXTINF:-1  tvg-logo="https://gitee.com/kj-han/tv/raw/master/logo/Kbs1.png",KBS1
+http://koreatv.dothome.co.kr/kbs1.php
+
+#EXTINF:-1  tvg-logo="https://gitee.com/kj-han/tv/raw/master/logo/KBS2.png",KBS2
+http://koreatv.dothome.co.kr/kbs2.php
+
+#EXTINF:-1  tvg-logo="https://gitee.com/kj-han/tv/raw/master/logo/sbs.png",SBS
+http://koreatv.dothome.co.kr/sbs.php
+
+#EXTINF:-1  tvg-logo="https://gitee.com/kj-han/tv/raw/master/logo/MBC.png",MBC
+http://koreatv.dothome.co.kr/mbc.php
+
+#EXTINF:-1  tvg-logo="https://krtv-cn-1253962976.cos.ap-nanjing.myqcloud.com/live/logo/TvChosun.png",Tv조선
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
+
+#EXTINF:-1  tvg-logo="https://krtv-cn-1253962976.cos.ap-nanjing.myqcloud.com/live/logo/movie.jpg",한국영화
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+
+#EXTINF:-1  tvg-logo="https://krtv-cn-1253962976.cos.ap-nanjing.myqcloud.com/live/logo/KBSWorld.png",KBS World
+http://koreatv.dothome.co.kr/kbsworld.php
+
+#EXTINF:-1  tvg-logo="https://krtv-cn-1253962976.cos.ap-nanjing.myqcloud.com/live/logo/KBSJoy.png",KBS Joy
+http://koreatv.dothome.co.kr/kbsstory.php
+
+#EXTINF:-1  tvg-logo="https://krtv-cn-1253962976.cos.ap-nanjing.myqcloud.com/live/logo/KBSKids.png",KBS KIDS
+http://koreatv.dothome.co.kr/kbskids.phpKBS1,https://skbcdn-aws-live.cdn.wavve.com/live/4Y/0000000K01/AVC-HD_2M-TS-KO-221026000000.m3u8
+
+#EXTINF:-1 ,Unknown_2
+https://krtv.site/kakotvlive/kakotvlive27/kbs1.php
+#EXTINF:-1 ,Unknown_3
+https://krtv.site/kakotvlive/kakotvlive27/kbs2.php
+#EXTINF:-1 ,Unknown_4
+http://43.248.119.227:8080/live/sbs2.m3u8
+#EXTINF:-1 ,Unknown_5
+https://krtv.site/kakotvlive/kakotvlive27/sbs.php
+#EXTINF:-1 ,Unknown_7
+https://krtv.site/kakotvlive/kakotvlive27/mbc.php
+#EXTINF:-1 ,Unknown_24
+https://krtv.site/kakotvlive/kakotvlive27/ebs1.php
+#EXTINF:-1 ,Unknown_26
+https://krtv.site/kakotvlive/mnet.php
+#EXTINF:-1 ,Unknown_28
+https://krtv.site/kakotvlive/kakotvlive27/tooniveerse.php
+#EXTINF:-1 ,Unknown_39
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+#EXTINF:-1 ,Unknown_40
+http://koreatv.dothome.co.kr/kbsworld.php
+#EXTINF:-1 ,Unknown_41
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 ,Unknown_42
+http://koreatv.dothome.co.kr/kbsstory.php
+#EXTINF:-1 ,Unknown_43
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 ,Unknown_44
+http://koreatv.dothome.co.kr/kbslife.php
+#EXTINF:-1 ,Unknown_45
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 ,Unknown_46
+http://koreatv.dothome.co.kr/kbskids.php
+#EXTINF:-1 ,Unknown_47
+http://koreatv.dothome.co.kr/kbsjoy.php
+#EXTINF:-1 ,Unknown_48
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,Unknown_49
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
+#EXTINF:-1 ,Unknown_50
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
+#EXTINF:-1 ,Unknown_51
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
+#EXTINF:-1 ,Unknown_52
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
+#EXTINF:-1 ,Unknown_53
+https://srs.iybtv.cn/video/CYS1/index.m3u8
+#EXTINF:-1 ,Unknown_54
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 ,Unknown_55
+https://srs.iybtv.cn/video/YBTV11/index.m3u8
+#EXTINF:-1 ,Unknown_56
+https://srs.iyb983.cn/video/ybtv1/index.m3u8
+#EXTINF:-1 ,Unknown_57
+https://srs.iybtv.cn/video/YBTV21/index.m3u8
+#EXTINF:-1 ,Unknown_58
+https://srs.iyb983.cn/video/ybtv2/index.m3u8
+#EXTINF:-1 ,Unknown_59
+https://krtv.site/kakotvlive/kakotvlive27/koreaeconomy.php
+#EXTINF:-1 ,Unknown_60
+https://krtv.site/kakotvlive/koreaeconomy.php
+#EXTINF:-1 ,Unknown_61
+https://krtv.site/kakotvlive/kakotvlive27/sbsplus.php
+#EXTINF:-1 ,Unknown_62
+https://krtv.site/kakotvlive/sbsplus.php
+#EXTINF:-1 ,Unknown_63
+https://krtv.site/kakotvlive/kakotvlive27/ena.php
+#EXTINF:-1 ,Unknown_64
+https://krtv.site/kakotvlive/ena.php
+#EXTINF:-1 ,Unknown_66
+https://krtv.site/kakotvlive/ihq.php
+#EXTINF:-1 ,Unknown_68
+https://krtv.site/kakotvlive/channele.php
+#EXTINF:-1 ,Unknown_70
+https://krtv.site/kakotvlive/ocn.php
+#EXTINF:-1 ,Unknown_72
+https://krtv.site/kakotvlive/ocnmovies2.php
+#EXTINF:-1 ,Unknown_74
+https://krtv.site/kakotvlive/ocnmovies.php
+#EXTINF:-1 ,Unknown_76
+https://krtv.site/kakotvlive/ebs1.php
+#EXTINF:-1 ,Unknown_77
+https://krtv.site/kakotvlive/kakotvlive27/ebs2.php
+#EXTINF:-1 ,Unknown_78
+https://krtv.site/kakotvlive/ebs2.php
+#EXTINF:-1 ,Unknown_79
+https://krtv.site/kakotvlive/kakotvlive27/pororotv.php
+#EXTINF:-1 ,Unknown_80
+https://krtv.site/kakotvlive/pororotv.php
+#EXTINF:-1 ,Unknown_81
+https://krtv.site/kakotvlive/kakotvlive27/jeitv.php
+#EXTINF:-1 ,Unknown_82
+https://krtv.site/kakotvlive/jeitv.php
+#EXTINF:-1 ,Unknown_83
+https://krtv.site/kakotvlive/kakotvlive36/childcaretv.php
+#EXTINF:-1 ,Unknown_84
+https://krtv.site/kakotvlive/childcaretv.php
+#EXTINF:-1 ,Unknown_85
+https://krtv.site/kakotvlive/kakotvlive36/tooniveerse.php
+#EXTINF:-1 ,Unknown_86
+https://krtv.site/kakotvlive/tooniveerse.php
+#EXTINF:-1 ,Unknown_87
+https://krtv.site/kakotvlive/kakotvlive27/cartoon.php
+#EXTINF:-1 ,Unknown_88
+https://krtv.site/kakotvlive/cartoon.php
+#EXTINF:-1 ,Unknown_89
+https://krtv.site/kakotvlive/kakotvlive27/koreansports.php
+#EXTINF:-1 ,Unknown_90
+https://krtv.site/kakotvlive/koreansports.php
+#EXTINF:-1 ,Unknown_91
+https://krtv.site/kakotvlive/kakotvlive27/mbcnsports.php
+#EXTINF:-1 ,Unknown_92
+https://krtv.site/kakotvlive/mbcnsports.php
+#EXTINF:-1 ,Unknown_94
+https://krtv.site/kakotvlive/skysports.php
+#EXTINF:-1 ,Unknown_96
+https://krtv.site/kakotvlive/sbssports.php
+#EXTINF:-1 ,Unknown_98
+https://krtv.site/kakotvlive/sbsgolf.php
+#EXTINF:-1 ,Unknown_100
+https://krtv.site/kakotvlive/jgolf.php
+#EXTINF:-1 ,Unknown_102
+https://krtv.site/kakotvlive/spotv.php
+#EXTINF:-1 ,Unknown_103
+https://krtv.site/kakotvlive/kakotvlive27/spotv2.php
+#EXTINF:-1 ,Unknown_104
+https://krtv.site/kakotvlive/spotv2.php
+#EXTINF:-1 ,Unknown_105
+https://krtv.site/kakotvlive/kakotvlive27/jtbc3.php
+#EXTINF:-1 ,Unknown_106
+https://krtv.site/kakotvlive/jtbc3.php
+#EXTINF:-1 ,Unknown_107
+https://krtv.site/kakotvlive/kakotvlive27/spotvprimehd.php
+#EXTINF:-1 ,Unknown_108
+https://krtv.site/kakotvlive/spotvprimehd.php
+#EXTINF:-1 ,Unknown_109
+https://krtv.site/kakotvlive/kakotvlive27/spotvonhd.php
+#EXTINF:-1 ,Unknown_111
+https://krtv.site/kakotvlive/kakotvlive27/spotvon2.php
+#EXTINF:-1 ,Unknown_112
+https://krtv.site/kakotvlive/spotvon2.php
+#EXTINF:-1 ,Unknown_113
+https://krtv.site/kakotvlive/kakotvlive27/billiardstv.php
+#EXTINF:-1 ,Unknown_114
+https://krtv.site/kakotvlive/billiardstv.php
+#EXTINF:-1 ,Unknown_115
+https://krtv.site/kakotvlive/kakotvlive27/baduktv.php
+#EXTINF:-1 ,Unknown_116
+https://krtv.site/kakotvlive/baduktv.php
+#EXTINF:-1 ,Unknown_117
+https://krtv.site/kakotvlive/kakotvlive27/braintv.php
+#EXTINF:-1 ,Unknown_118
+https://krtv.site/kakotvlive/brain.php
+#EXTINF:-1 ,Unknown_120
+https://krtv.site/kakotvlive/fishingtv.php
+#EXTINF:-1 ,Unknown_126
+https://krtv.site/kakotvlive/nat_geo.php
+#EXTINF:-1 ,Unknown_128
+https://krtv.site/kakotvlive/cbs.php
+#EXTINF:-1 ,Unknown_130
+https://krtv.site/kakotvlive/cpbc.php
+#EXTINF:-1 ,Unknown_131
+https://krtv.site/kakotvlive/kakotvlive27/bbsi.php
+#EXTINF:-1 ,Unknown_132
+https://krtv.site/kakotvlive/bbsi.php
+#EXTINF:-1 ,Unknown_133
+https://krtv.site/kakotvlive/kakotvlive27/cnn.php
+#EXTINF:-1 ,Unknown_134
+https://krtv.site/kakotvlive/cnn.php
+#EXTINF:-1 ,Unknown_136
+https://krtv.site/kakotvlive/kakotvlive27/bbc.php
+#EXTINF:-1 ,Unknown_137
+https://krtv.site/kakotvlive/bbc.php
+#EXTINF:-1 ,Unknown_138
+https://krtv.site/kakotvlive/kakotvlive27/nhkworld.php
+#EXTINF:-1 ,Unknown_139
+https://krtv.site/kakotvlive/nhkworld.php
+#EXTINF:-1 ,Unknown_140
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 ,Unknown_141
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 ,Unknown_142
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743

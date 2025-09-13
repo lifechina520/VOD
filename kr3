@@ -1,0 +1,288 @@
+KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1757934060&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc5MzQwNjB9fX1dfQ__&Signature=AgEvC4kuevTdV03-9v~RhvzyTKxqoVzeOTXdZvSqzN2nHPhXSGucbtP-fc9100tusNOXwyGsVE~wKz5a1FPt-zhnjWxBjRyn3ai4-pg9YigpUcw3DPMxoTZg7QnmLVnSWQISYrPDEGKvk3NRkCm6BxpRoWF-L11ylPiujeoumL~yWdf~lbQEYOkZMWqWdHvbAe~iF4Cowr6bzJZ2LsE6wTbuq5M4bixXj7mOCVGBGYSplVZ95pB49KXoiqI9dFH~JCEaMzr4LE3CrB~ExDi7v0fm7d0O7RU3JCyWL9ZOTkR7uoXj1rEupY6ovfgYCE3nqHis2AgN9fc73zAPu8P6DQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+header={"cookie":"Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNFkvMDAwMDAwMEswMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU3ODMwODg1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=sWTwVnDvcHNg~PzXFxU0ZbhSYc6QbR0KliD9Rpg0RmKYy503fWsJWqWRwMa4wPag9w7~jMWXyblrpdr3ZGk2fkha5u7MkyaacQIhWGdl0aWtrnq1sgiK~zCunzKIt55-IkZR0YIChOGmPGOOh-p-rUBwFgc9QgF73aMYUEHhK4Q_; Key-Pair-Id=pub_wavve.skcdn.net"}
+KBS1,https://skbcdn-aws-live.cdn.wavve.com/live/4Y/0000000K01/AVC-HD_2M-TS-KO-221026000000.m3u8
+KBS1,https://krtv.site/kakotvlive/kakotvlive27/kbs1.php
+
+KBS2,https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1757934028&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc5MzQwMjh9fX1dfQ__&Signature=kUSONXN4DVVoIqXcHy9W1RF65EbeRTjP9FM~FIIFmm-uKPbj2~4S9SLYmntZoNxLCfQpNlVJVP52Wq~7Y7-ytYUaPwwNViy6t~GgqxFVw8Q-VAtUGtOr0Mxit0qivSYOlz9ZLq-WjQuIjxufOgu9dfK9wshk9zQ0~FwgGGybVpSYQoeEgfYRHokEk1Z7M2K9otWVHsBKdKBwfVsU9b8sSGdl5z-d9CeSNpPfmHPiX39EAmHZWpLqdCZsbsRC4AePj~6g24BZbFhwPEKJJOMn~CLAWcKWTO4Mv87wtI2Q4zWLUi1u~tBF-N~UDSnq1J2oqCFrfpXMTbX~cfxtZO5pMA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+header={"cookie":"Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNFkvMDAwMDAwMEswMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU3ODMwODg3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=fYsk1kQ1U6vocUMVPnGjzsHPDSrGGL0Jd-mVBnAYWaAxNzSZO3ThYnNJII4~ISR31GzmzI0fMpWtS6MWlViSsgwUfBUDf~rfHFHOnxBcMapUAFtwfDtLGhTk2xlDTfGJUsiDabsvR7EWgVDy8pfJ6uqRevJ7hLOei5L0C~5HpIs_; Key-Pair-Id=pub_wavve.skcdn.net"}
+KBS2,https://skbcdn-aws-live.cdn.wavve.com/live/4Y/0000000K02/AVC-HD_2M-TS-KO-221026000000.m3u8
+KBS2,https://krtv.site/kakotvlive/kakotvlive27/kbs2.php
+
+header={"cookie":"Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNUwvMDAwMDAwMFMwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU3ODMwODg5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=L6OAWUd5dMRktsMtrZBLi0aSGaaJK2zAkKFDCQp~d7gIX5XVC-gCc2q13Dp8bEQfhLOAJfGjKijS5ggAcGLUMukhXTT6XRSsv2SFpv~VzewnKayTuL1cEBhJiW-ui5zAQwuX7z2dQmZl9-u3tF3Q5sdNuIKW1n1Lf6xNVm3XJSY_; Key-Pair-Id=pub_wavve.skcdn.net"}
+SBS,https://skbcdn-aws-live.cdn.wavve.com/live/5L/0000000S01/AVC-HD_2M-TS-KO-221026000000.m3u8
+SBS,http://43.248.119.227:8080/live/sbs2.m3u8
+SBS,https://krtv.site/kakotvlive/kakotvlive27/sbs.php
+
+
+MBC,http://koreatv.dothome.co.kr/mbc.php
+header={"cookie":"Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0wMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU3ODMwODkxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=jujmc1FLQGDOBep5IE9WRPK1R9j6qfFiZgAC1-0eid4U-e-wvCRNG6xZePSv9gOTxq0BZ-ImL5SwvYhWsjdeTq~qLGJxT1RsYstFOFErs4LXYl2Ai3mJORTqDVZVLelQTigwzqP5tzML6nFnAeSMurYhDv8WRYqW~qIPLLXC1ss_; Key-Pair-Id=pub_wavve.skcdn.net"}
+MBC,https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M01/AVC-HD_2M-TS-KO-221026000000.m3u8
+MBC,https://krtv.site/kakotvlive/kakotvlive27/mbc.php
+
+
+TV臁办劆,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+header={"cookie":"Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvMEMvMDAwMDBDMjYwMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU3ODMwOTA0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=GQsAu2Qq5HfO1gaJICoHo27U2gE3TGD8akxolGVbdhv-3Z7ECMXVucwDD87QVSlTlytA~W31O4ksY6TMdEdQoNPK5GmvHvG~tacSte~0ZzGY0pRGXHyRkeMRbz~YG9hRWQpifKrbn0QBIwCr01KDe~LchXMO6bxxl2jOqgZYcOY_; Key-Pair-Id=pub_wavve.skcdn.net"}
+TV臁办劆,https://skbcdn-aws-live.cdn.wavve.com/live/0C/00000C2601/AVC-HD_2M-TS-KO-221026000000.m3u8
+
+
+TV臁办劆2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaG9zdW4yLW1jZG4udHZpbmcuY29tL2Nob3N1bjIvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc4MzM4ODJ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=kLPasqQssL-kSYzrzAG16INBpXb0ctt54RtqHCFtH3wHWgBJEgSsnkErYF~no5VEQ-rzV84yj6JxDsAwZwjB1iqEXRgrYzLhfHa9nY9N5zRgBjAh-ZVmomQinTBfoCgGSFKAAkfSOCK~pAQKH3ZUMH2V-7836ifmRmIAkYElVScvbQz-sWSy0X14EOoelWWSXptN8yUpLTtvO8veCOwHFo31vzFWu6ycroXdLchFv6UNjwV1auTaqlz5-bVzqBvVhXEEUVUn2TS0MnsY2pjRM-xvJW8NSB-EO1u6hVdZ6cqWHb6V~POQqYDl2UUBI7BSRQ51NP3KSL4qAryuME0H8Q__"}
+TV臁办劆2,https://chosun2-mcdn.tving.com/chosun2/live2000.smil/playlist.m3u8
+
+
+KBS雺挫姢24,http://koreatv.dothome.co.kr/kbsnews.php
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9rYnNuZXdzZC1tY2RuLnR2aW5nLmNvbS9rYnNuZXdzZC9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NzgzMzg1Nn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=GtuIrVhtbgQdAzi005PaLG9QuzOicoVWNJh0Ttx~SpTtC4pGB5Yntf4H5gpLYO4Vxxo0W0md4xTRcJFaT~mnUfu3h3vTfISaOossFbKNO8RFASXBwMD9MuiMHB4bBL0XF3DO6u26vncFZX1ycmJm8owN3xZ9q5KXIB-5t7A~tyjxHo8yL4~zkDKwyZ9~mIjhE5WBlMONg-3m0lnroquluW1OXXWQ9La3TeKG8lW87xUJoOv4CDuFNMgFpvB~Te-TjBTLu-n4bK6~1Trh~U5ZdB9~GuIZ06KkFQwOu7eJqKI-Xgy-KVUwrxtpvg3VZYBJM1xFE4QLrsqH3L1mfUDTlQ__"}
+KBS雺挫姢24,https://kbsnewsd-mcdn.tving.com/kbsnewsd/live2000.smil/playlist.m3u8
+
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9qdGJjLW1jZG4udHZpbmcuY29tL2p0YmMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc4MzMzMTd9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=GLcBW43g0RNcyb5HoWtNiWzfYDtkpkKdzpg8qcLi79ND8dwHBRvUb2xlsdGH6eencE7~xoIIgmy0Ilcac0CppiS7ZGYL3zdk0b7K5i2tiH4EQZFBl9SWI~QYHfLItTa756FYtLmVAwOxsRwFHpN6Bfrpb60KBaLAJuXhtruAjKrm2Sd2VAJHibBJMx2KLEgNJMkEObSFnt-I9sirvl6MbPlad2ugYCn2sFIki3MN7pqanErvID~0RjNZjYv1qBOHReVmcEdQBOaYV0No9JwpDzY3XLTjoxgwGDj58HzRRjeDxPDs-thWwkSayhE3RkuU-be7ea5DJmx4pyWTcosf5A__"}
+JTBC,https://jtbc-mcdn.tving.com/jtbc/live2000.smil/playlist.m3u8
+JTBC,https://krtv.site/kakotvlive/kakotvlive27/jtbc.php
+
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm4tbWNkbi50dmluZy5jb20vdHZuL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU3ODMzNDM0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=Cbd-BPmdXYBzn2PzdPDsX6XIIQd~PLZwpZGO9~WU-rxDUZCV3CFzCsqGDYnavzlKpI2N49VaeIXEJgvX6-589gLGJN6o3-~3HszaDRASj9pb9yLrgtGg4fcYPVY7Y~5dvLzM9KIO60cfAU1bnEG-OpNc9B2IXSHU53xTypnZBD95hb0d5NqQQcC0N3WGxt4IKEb~C~uxr0U9eZM7UWh~xHV3zM2gAMn8WRc2vXUTGYbL8rKHuQG27cO0reqWgctod~u3MlQ1ulvdAulyvrolPGbT42pRHUBXD~VN4YzCnz9DE7GdGvFFt8JZqcHxS3K4M9fXvEXfbrEof1plHJP7Cg__"}
+TVN,https://tvn-mcdn.tving.com/tvn/live2000.smil/playlist.m3u8
+TVN,https://krtv.site/kakotvlive/kakotvlive27/tvn.php
+
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9tYm4tbGl2ZS1tY2RuLnR2aW5nLmNvbS9tYm4vbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc4MzMzODZ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=dv3PqLbzqdfkPkszfhbkVL6IoQmchVh7wRMmMhvHfEML0pdxJoGBfT0dJkfKhn-VA66S-HkqHd6oZH1JiE0s28qtEctCAxI3ciRPLmm4hFHhpKb-YbeaLvdBlvh6OOX~m4fqlwfdRy7jGyi3TvGCA-Xmxifxe4xP0DBsNqiuBjehL3gtoTz-PnVeJNoWG5I-Qx5Ooc9c83Xe9Y4Ebv~8QgjTyWX3MOju9vW87AjVg-990ElmmFf--OKQM5AHPWnRp7z2gb2N~Z3SDz43gBNYxkret1UqKy7Q1wn6LG7~GbRIDk~BRfRaufcntocjspfnkkXZzBX9qjJIol98z-E1lA__"}
+MBN,https://mbn-live-mcdn.tving.com/mbn/live2000.smil/playlist.m3u8
+MBN,https://krtv.site/kakotvlive/kakotvlive27/mbn.php
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly95b25oYXAtbWNkbi50dmluZy5jb20veW9uaGFwL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU3ODMzMzYyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=atnp6Y1jKsn7fuedZ3e34GfdzFhMbgkKm20cNKTeA7zreyZWLs1IucgIopaHl-bYGtjTYc8lFeKkiAtdUUIrssT2gSxlXavVkWQdekAJ~dT~maflX4A0gBSU9nm1e4E22XKjw3etWx3rPWVubooS09GsJqwrW4Hd-6LX~UPNf2ni~ZwtLqaBR22hRRCRUWCmvrbfAnfhmZYCJATkkMm7dh2D7Ra-xqL1aB66jph8ylST9Hx6c0pxky8Yxgfer9hOVIYSo5~vVKMZmxzW~9SRLp1OxU1OiX4EvxhHtPVoO5rQleahjSZrkGx~-rRs90C2zn5ZiYlsGLfem~nbrpL-Uw__"}
+鞐绊暕雺挫姢,https://yonhap-mcdn.tving.com/yonhap/live2000.smil/playlist.m3u8
+鞐绊暕雺挫姢,https://krtv.site/kakotvlive/kakotvlive27/newsy.php
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly95dG4tbWNkbi50dmluZy5jb20veXRuL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU3ODMzNDA2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=Avmu1zEch3kVwfnja1a6IsVES9rvqNhBrQLr4A-FGRM7-da-ATiffdF0bbRpoknYaodNTYoieNQ3O3gMLftPN2xHf6B2xdw8SMB6ArbySgs8sITEPZoNihf9O-HejAV-UP~vjbq~1W0QP0JYzcrxW1tP1wrpmJBRHXmjb1p5sl6hVamKuu59NsvxRURSQ~L8c7VD4~g5rZktG7f0hjc0Qwb4n13RBf9tdvx3etLJFSKNBMyN4CVhLLkRpUci6lBOqHXxpdItqYcf-ruEHhh-ZWUh1YI~Z~OFX8U2q5-9zLKQ-2h4~6RSkmDXdWZGbWFnaZ8ABbr1GanXTuOaoR-lnQ__"}
+YTN,https://ytn-mcdn.tving.com/ytn/live2000.smil/playlist.m3u8
+YTN,https://krtv.site/kakotvlive/kakotvlive27/ytn.php
+
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaGEtbWNkbi50dmluZy5jb20vY2hhL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU3ODMzNDgzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=Gr6I06AjA8NW2Fv6jVuDxfDXQEbjA4uHvXf9e1z0lPOlLxR6L06ZTZkyd3AqRIXLoGvbqpFJXhx8TQ60g0lsuabge2Z9SV77HwNaCeuLtnw7cHNM9JNQjUaj5kmb0H6LLI08N9bXT7jW47qAMtu4cOgv~~Ic1kCoVrCN2anuRRQssjUrjKSYRxdXZw6wlij7chdqLPPHwG3PYsdM7fXJaMD3rZHNjLtsP36DldrGq0JOfIslxzojIrxxmeetEyOjDmjvldbvKANuKUj3pTSzbHT0uHmBfIf3Cm1tGjseGO4VQGStwpHdYgLSH8VJUBYKgJiXWEbgok0Uvpm~bVfb~Q__"}
+毂勲剱A,https://cha-mcdn.tving.com/cha/live2000.smil/playlist.m3u8
+毂勲剱A,https://krtv.site/kakotvlive/kakotvlive27/channela.php
+
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9lYnMtbGl2ZS1tY2RuLnR2aW5nLmNvbS9lYnMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc4MzM1ODl9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=DlLb0gUCiALtIeQmoe9a~YwGIf54A8qqJvrr676q3pXOofwIo6VN5NJqSyUEhVpG68fG~~r2kJhCFYLUc0tLuUe-SbMy4piI0P2NsHpp1huN6inuRWxusduD3~tNHhAmCHZNtY6HcC3yF7MqCetgYB4BcTfjlhM5QkJCGIgxmt7nuJls2nWuEPhQMatAVONzqs~RveIDgWSpNg1E1-R0mHoIPvnDdPw85K9FJSe5IY1P-LloPIzciVt8I8WuvUFgG6wz-Vz0gkI3X~VFhvlFLD8xIpgV~rvSh5ihsMAKi4i9PSPQ377r3OSXwSCFv7TjAVAPEzuQEYdNNlC1Xn6SGw__"}
+EBS,https://ebs-live-mcdn.tving.com/ebs/live2000.smil/playlist.m3u8
+EBS,https://krtv.site/kakotvlive/kakotvlive27/ebs1.php
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9tbmV0LW1jZG4udHZpbmcuY29tL21uZXQvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc4MzM0NTh9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=kINIa62yM8xEsWtvjK2psQrONTQN51~f6MkOK0OS3CzO846dGW0Hgm3FZ1hAWgu4tzazkmIbqSHqVQXgghFb8dYpCgwxgWa7TbCbX2PN5NPTzWTTWQifVDjFwpQ-TMfWeyacIarRRSs0B~D1MommzDlDJljxI2kQPWVjDhoJzQ5BQEDJuNrgsVdFR8P4MihPFLHZsqcQRBHjmbUxRt78S81X7NCxhbpL66foWAwD9I5mwkdx7F2wbTHiSyOQNWAIb7cXLPCni1r8KLGSKAzw7~-yqFk5VQRhnmRXAj8QVMglvsePVO328xEilEwzcmuQOOgRHMVdiGLDn5Rd1loDag__"}
+MNET,https://mnet-mcdn.tving.com/mnet/live2000.smil/playlist.m3u8
+MNET,https://krtv.site/kakotvlive/mnet.php
+
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90b29uaS1tY2RuLnR2aW5nLmNvbS90b29uaS9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NzgzMzYxNn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=IR67tEJiFGrpEm75I8f~tURkr0Jux2938Wr7OcUetGdDHOEIQ1Mym62GbmKBYxa6Bmf8Tv5RhO6QH-Fp9nUs2MLJKDeZ0~y6j8hJSoBT57sHdZuK0UyxaQlDw2Z7R-iFGtVBw-aA0A4M5--YELvf1aleUBLqNePBE7WSi6S4-cLgU38hpcDITtw6UoMJr0u78ddBlXJSjO4mSSopT85HtZPh8ibMlnUhufLHdJayAOAbkKXCqyodnimsRp3b6JCcJtYQcEQbxgwmMPVtAdKx1gv4aa1M~zDhLW1EH9qxLtF1oH1hf~~JKTZgz9ze1k8fB5Ti81qrMkCCZa-3WyHJvg__"}
+韴媹氩勳姢,https://tooni-mcdn.tving.com/tooni/live2000.smil/playlist.m3u8
+韴媹氩勳姢,https://krtv.site/kakotvlive/kakotvlive27/tooniveerse.php
+
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9hbmlwbHVzLW1jZG4udHZpbmcuY29tL2FuaXBsdXMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc4MzM4MzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=lny3lp60ar5KBaXLNoPcRls4DLg-X7hBP3ZAZpuRgaq2fLN1~XhGWCUsXeHEbxYmkU7bQjIaWmXHeHTfgL10DHPsKloqcDZWxnOTl6olpTjjI7R09yyxqZvUbQO6eOs0qcSQP5Hnmenc5K~lWMxDxAyt4bpa4QvAxG1jx2x2V-kxIC-tYvXtJm0m41a1oLGMlpaBsgeachPxhnJVktiVyjIzPAS~kGvyRDE-l7JV2jKUIbXPFPX~nu~ucOmHdwTge1vkUfC-YEvKXHeG~wiqpFB9Ny8D56Y61XoUsLgZQm~-dxc1pwr197TtJVXc7VDC73wjIQcjz-Et6V5hOsvp~w__"}
+ANIBOX,https://aniplus-mcdn.tving.com/aniplus/live2000.smil/playlist.m3u8
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaGFwbHVzLW1jZG4udHZpbmcuY29tL2NoYXBsdXMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc4MzM5NTl9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=CUrVhQgDBgzmf8eolJu4UJAc4jYdkvySvYut0L8hOES0cghk9toBHWar~dbcLBfyqsQ4L2TTSdlhQ9gB7EEwWHfUNKiCnH7JQmO3a~6N97c8H2xfNXvTIogJWV4YuyPjYiMZrGpV-s856YOgqzX-PrHED11p2cDA7WEZJXqzOh~DSOT8IHkc1njd9Lk4UAlkbeLkYodCj5pwIrI8jhBdAauzI-XKUPGtNpkEq3EttSLu2T4fVh6IZ7wl68sbY2ExocL~7n5B~MWameVKszLdKD-7HYnokMiLpZeuB6KssCbgQMvFTQjhDZuoVTOKHJiY4T~e1YutVwnlOTwPqKwGMw__"}
+毂勲剱A頂岆煬鞀 ,https://chaplus-mcdn.tving.com/chaplus/live2000.smil/playlist.m3u8
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9qdGJjMi1tY2RuLnR2aW5nLmNvbS9qdGJjMi9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NzgzMzYzNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=VVyyzlA~YKN0bTJ924ASfxUQqQGedw467j7nTovbXsblLhTxDEy1Y3ibYaNVTvv9L-1yGE2Xlj-d7jRfOeBeyCjg-WEkKl1ILIFCKu3WBe6gCejl~p-sHz7FEnMIykK40YFblHu2arASYxLwtDmIkGZYn0hNQnCUaBSruLsNTDqVV4gBtpoNWYGjpZMbOHq283YP3zS4HCUvNNUoSe0b9xCNU97ZVtC2wFXyDLgKcbGV567Y3RVZFmrjW38yPV9WRxECQH1aJEISGWmG2SO7Uz0IdHzMBHD7xcxhbSBvUueR1A1AFgFq1~3FQW5TyM8CcLADC205Q2jU2jU6gGL91A__"}
+JTBC2,https://jtbc2-mcdn.tving.com/jtbc2/live2000.smil/playlist.m3u8
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9qdGJjNC1tY2RuLnR2aW5nLmNvbS9qdGJjNC9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NzgzMzY2MH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=c-l6WcHdNkaBwewT~jlXLUes65L7lE0tVzX1dlkI13nn2-cwtKkxL4zw54ogKp9LkBnqugDx3-5s4vjMJebJL~uiGU33hKiu3hFI0rqqt1aP90XOsdwDH6p9H59WLgyrLSY45uNbChZgB13efphoTB8GQ8lOGLYwbnuIDX1vWxQXIQqRTo3BHy9kmXnLMkUvZwrqpsUhK~yYFtT7KMMuMM7U4kGDV07XxY9w~AbkiHt4GCutDgvQ8z3iP8PS5R33kAlbze5kOYp91P~CVM8ObPgy1hsRmf3XbzIzolVcblYDip6VLVk9bJDddpxH7q5LGK1xyz7Lt9MuhuMAJ7ALNA__"}
+JTBC4,https://jtbc4-mcdn.tving.com/jtbc4/live2000.smil/playlist.m3u8
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9tYm5wbHVzLW1jZG4udHZpbmcuY29tL21ibnBsdXMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc4MzM5ODR9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=Pvy2zw3VR7cB9OqiFOoT4tOWk~yWjIDMml5mHCTfZauKzhfaA0NSx~dS4~7z-zCmIqwfDIELCU5HZ47I3O133Yv3y-Y947rQFVU3fGygZmXgv3NjqX~C-Ih6m-yRPJB5~APZaE8Ud069VLrOFDv8HRcPcf1adhwKky3xE623finsrkL2Is1GsekHu3rdXEJV83WDvyESRUNuPQ35SjyHcjB2S1b8Z9xa0njIXG~TVDO~Npl2hbCqgosqiJGDPOQB-bxb0S0A2aeMY8ybhGnbm9ITqraZU3xWQg-fBcGhWjfoEthHfCG~EpT7epDbTT6cRAa3RkfI~KpVVKIBy5TeJA__"}
+MBN頂岆煬鞀 ,https://mbnplus-mcdn.tving.com/mbnplus/live2000.smil/playlist.m3u8
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9uYXR2LWxpdmUtbWNkbi50dmluZy5jb20vbmF0di9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NzgzNDAwOH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=Htcxz7zHYhl~3CmYUcZSpkwZqUh7sOaGiQQq1RcShHWt-biQZfcNilW9fr0VuArp7PuoPH0Pqh-FyjpN6UXDrt-mgJOFBREuZop7ZI336x5pzccjnwJlXnm~~cQEbmH2lXID6T~va8xYO2dC8Riz5bTkgWmxoHNJSaQKVphoW6GI2DtuGFyDHKLYQFIB5lkYaPjYBUk~xIupGg3Yhp2NIL5tmnsD3M4yWk65z-Hj~nUf1rWDJSlBSDW4rHaHbuOXiNYRLP3UfIvSQf6qA-0ffPrM55pC6ADyAj9G3o~jeqKeqfoUlZNMCRDCjIl0ynOWVEe8upvNwHnFI2GEL3FHxA__"}
+甑殞氚╈啞,https://natv-live-mcdn.tving.com/natv/live2000.smil/playlist.m3u8
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm5kcmFtYS1tY2RuLnR2aW5nLmNvbS90dm5kcmFtYS9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NzgzMzc1NH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=cF1vYihBPh26UaY432RFsZqvmYFty~6uZ~QQMVcSwMX05jJ15znRwXTBB1CAeEIGc4~l0xhjnxAiV3SQPw87YvenbowzXuy7G~FZQBpywK-vX8A8ZAwjUdKczJbB4LhQlvAJoI1eClIykBnyDSbVw5SXJ8k9C9n5q3dt1dLHa5UxVbl61zqQ2FBHPTueT10IrYRomFnwZsSCuESvvTWTSOymuiX7jDwj3QoXUl3GuJGoJ98cQahoHKNuAOFG3-k5yR~1ddjjkCe6nxldY2vSOZYOv~r-WdLu6nr85qM2QLoaER1T1WpR7HUrtGc3ZNQzXtj-y1FlakkeZyfS7cCPsA__"}
+TVN霌滊澕毵 ,https://tvndrama-mcdn.tving.com/tvndrama/live2000.smil/playlist.m3u8
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm5zaG93LW1jZG4udHZpbmcuY29tL3R2bnNob3cvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc4MzM3MDV9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=QnO0Vqu3PCzxZJ~m1yoryNfkBHtx1-JAMDW5MJg2CTrae1dTWx3XZJAUDGFyZ8gJ3nO605RnFVeu8EBBMbv-aVTWUisLP~kj9MroWh4~z6DNLZLuOJB0MmowNDtqGFXujAVCEid25NI2q-h3NpNuMUXoldU6HXo6NwMnAQf3bEgxNULdmlvBTe49M3w1ZD-UiwPNOogeUgb1ibY7Rtv3~fqQNi1mlL63JiEDUhkjzEUEgYeE5lEQVJ5FH-fCrtafhGqKmOF~Ga37~gnJD9akYvxAm1HaaFpXW-8zP5KtJzOPB6~6vIkiOHPVyt5AJOxrvqmHt3lBFExdgMug6MSdjg__"}
+TVN靽 ,https://tvnshow-mcdn.tving.com/tvnshow/live2000.smil/playlist.m3u8
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly95dG5zLWxpdmUtbWNkbi50dmluZy5jb20veXRucy9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NzgzNDA1M30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=jOBpdQKDj7ucKGZfkVJKLsRh02YQBXwCWJyAXWQyAAJDwHy29gwnH2iUya5ZfO2eId49Opum15qd3SGe2nfe0kpls-xSNaGI02Xa3AQhK2Oom2sfy1meDBMOaI3iAZzEMleN7FeSMDO0dbVN0o1~RjgrbrlITXzc6s3eY8F73zqHLdc0rZ7Nz-mjCuqrVqWQWULTDWZv-XEVdH72T0MIfjpppoEZbE3DC7hKihmm3eMRy4LtjV8ekVlkL3SjK3whBCFfsrh~2mXQDTAUXjo9lLaDkyoDBK2ruPzf590Cgs6GWHQRC3y7XCXxTJQVIUUi49C6LiMMNIIWQU6yCRJOfw__"}
+YTN靷澊鞏胳姢,https://ytns-live-mcdn.tving.com/ytns/live2000.smil/playlist.m3u8
+
+header={"cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly96aHR2LW1jZG4udHZpbmcuY29tL3podHYvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc4MzM5MDV9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Signature=f4H-9gZWPSaF3ljfIWscjJ1OftSEDjd6SqifvQL9WaStMBJ2y1BlwKFXFsJFKsX8lOgMrNgqxo7PGMlteQWtzZtz0oSCSdGLlGd2PHSwocjErp~Q7fK-S5i5hrMch9FnZZ6z81an5sxcE3e2UsvnpiNoZVH8FdG8raAskC5pedQ94N5rF3jpFXZIel04mEnzJGWOOs4HPzibhuPgGVDAbYLvbnAKzxbOTM8eW-EkxgoZ2AKkCdq9s83cCaDfSUCH~TnImOHeTHJSjm2AuBtqxbUfpJrq5BnnUa9LgJdjsruTWva7e7lTVCyX7xlK0sgV8KchVswm8t5pOn2fZ7NN~w__"}
+欷戫檾TV,https://zhtv-mcdn.tving.com/zhtv/live2000.smil/playlist.m3u8
+
+
+
+
+
+
+頃滉淡鞓來檾,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+KBSWorld,http://koreatv.dothome.co.kr/kbsworld.php
+KBSStory,http://mytv.dothome.co.kr/ch/catv/4.php
+KBSStory,http://koreatv.dothome.co.kr/kbsstory.php
+KBSLife,http://mytv.dothome.co.kr/ch/catv/5.php
+KBSLife,http://koreatv.dothome.co.kr/kbslife.php
+KBSDrama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBSKids,http://koreatv.dothome.co.kr/kbskids.php
+KBSJoy,http://koreatv.dothome.co.kr/kbsjoy.php
+EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+毵涭瀳電  雲€靹濍摛,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
+雮橂姅 鞛愳棸鞚胳澊雼 ,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
+霃勳嫓鞏措秬,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
+氚彪皹旮绊枆,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
+
+
+
+
+
+
+
+
+
+韰岇姢韸  氚╈啞,#genre#
+寤惰竟鍗,https://srs.iybtv.cn/video/CYS1/index.m3u8
+寤惰竟鍗,https://srs.iyb983.cn/video/CYS/index.m3u8
+
+YBTV-1鏈濋矞璇 ,https://srs.iybtv.cn/video/YBTV11/index.m3u8
+YBTV-1鏈濋矞璇 ,https://srs.iyb983.cn/video/ybtv1/index.m3u8
+
+YBTV-2姹夎缁煎悎,https://srs.iybtv.cn/video/YBTV21/index.m3u8
+YBTV-2姹夎缁煎悎,https://srs.iyb983.cn/video/ybtv2/index.m3u8
+
+頃滉淡瓴届牅 TV,https://krtv.site/kakotvlive/kakotvlive27/koreaeconomy.php
+頃滉淡瓴届牅 TV,https://krtv.site/kakotvlive/koreaeconomy.php
+
+SBS PLUS,https://krtv.site/kakotvlive/kakotvlive27/sbsplus.php
+SBS PLUS,https://krtv.site/kakotvlive/sbsplus.php
+
+ENA,https://krtv.site/kakotvlive/kakotvlive27/ena.php
+ENA,https://krtv.site/kakotvlive/ena.php
+
+IHQ,https://krtv.site/kakotvlive/kakotvlive27/ihq.php
+IHQ,https://krtv.site/kakotvlive/ihq.php
+
+
+Channel E,https://krtv.site/kakotvlive/kakotvlive27/channel3.php
+Channel E,https://krtv.site/kakotvlive/channele.php
+
+OCN,https://krtv.site/kakotvlive/kakotvlive27/ocn.php
+OCN,https://krtv.site/kakotvlive/ocn.php
+
+OCN Movies 2,https://krtv.site/kakotvlive/kakotvlive27/ocnmovies2.php
+OCN Movies 2,https://krtv.site/kakotvlive/ocnmovies2.php
+
+OCN Movies,https://krtv.site/kakotvlive/kakotvlive27/ocnmovies.php
+OCN Movies,https://krtv.site/kakotvlive/ocnmovies.php
+
+
+EBS1,https://krtv.site/kakotvlive/kakotvlive27/ebs1.php
+EBS1,https://krtv.site/kakotvlive/ebs1.php
+
+EBS 2,https://krtv.site/kakotvlive/kakotvlive27/ebs2.php
+EBS 2,https://krtv.site/kakotvlive/ebs2.php
+
+虢€鞖  TV,https://krtv.site/kakotvlive/kakotvlive27/pororotv.php
+虢€鞖  TV,https://krtv.site/kakotvlive/pororotv.php
+
+JEI 鞛姤TV,https://krtv.site/kakotvlive/kakotvlive27/jeitv.php
+JEI 鞛姤TV,https://krtv.site/kakotvlive/jeitv.php
+
+鞙§晞氚╈啞,https://krtv.site/kakotvlive/kakotvlive36/childcaretv.php
+鞙§晞氚╈啞,https://krtv.site/kakotvlive/childcaretv.php
+
+
+韴媹氩勳姢,https://krtv.site/kakotvlive/kakotvlive36/tooniveerse.php
+韴媹氩勳姢,https://krtv.site/kakotvlive/tooniveerse.php
+
+旃错埌,https://krtv.site/kakotvlive/kakotvlive27/cartoon.php
+旃错埌,https://krtv.site/kakotvlive/cartoon.php
+
+
+KBS N 鞀ろ彫旄 ,https://krtv.site/kakotvlive/kakotvlive27/koreansports.php
+KBS N 鞀ろ彫旄 ,https://krtv.site/kakotvlive/koreansports.php
+
+
+MBC鞀ろ彫旄 ,https://krtv.site/kakotvlive/kakotvlive27/mbcnsports.php
+MBC鞀ろ彫旄 ,https://krtv.site/kakotvlive/mbcnsports.php
+
+鞀れ勾鞚挫姢韽笭,https://krtv.site/kakotvlive/kakotvlive27/skysports.php
+鞀れ勾鞚挫姢韽笭,https://krtv.site/kakotvlive/skysports.php
+
+SBS鞀ろ彫旄 ,https://krtv.site/kakotvlive/kakotvlive27/sbssports.php
+SBS鞀ろ彫旄 ,https://krtv.site/kakotvlive/sbssports.php
+
+SBS瓿攧,https://krtv.site/kakotvlive/kakotvlive27/sbsgolf.php
+SBS瓿攧,https://krtv.site/kakotvlive/sbsgolf.php
+
+J 瓿攧,https://krtv.site/kakotvlive/kakotvlive27/jgolf.php
+J 瓿攧,https://krtv.site/kakotvlive/jgolf.php
+
+SPOTV,https://krtv.site/kakotvlive/kakotvlive27/spotv.php
+SPOTV,https://krtv.site/kakotvlive/spotv.php
+
+SPOTV 2,https://krtv.site/kakotvlive/kakotvlive27/spotv2.php
+SPOTV 2,https://krtv.site/kakotvlive/spotv2.php
+
+JTBC 3,https://krtv.site/kakotvlive/kakotvlive27/jtbc3.php
+JTBC 3,https://krtv.site/kakotvlive/jtbc3.php
+
+SPOTV Prime HD,https://krtv.site/kakotvlive/kakotvlive27/spotvprimehd.php
+SPOTV Prime HD,https://krtv.site/kakotvlive/spotvprimehd.php
+
+SPOTV ON HD,https://krtv.site/kakotvlive/kakotvlive27/spotvonhd.php
+SPOTV ON HD,https://krtv.site/kakotvlive/spotvonhd.php
+
+SPOTV ON 2,https://krtv.site/kakotvlive/kakotvlive27/spotvon2.php
+SPOTV ON 2,https://krtv.site/kakotvlive/spotvon2.php
+
+牍岆Μ鞏挫TV,https://krtv.site/kakotvlive/kakotvlive27/billiardstv.php
+牍岆Μ鞏挫TV,https://krtv.site/kakotvlive/billiardstv.php
+
+氚旊憫TV,https://krtv.site/kakotvlive/kakotvlive27/baduktv.php
+氚旊憫TV,https://krtv.site/kakotvlive/baduktv.php
+
+敫岆爤鞚疙嫲牍 ,https://krtv.site/kakotvlive/kakotvlive27/braintv.php
+敫岆爤鞚疙嫲牍 ,https://krtv.site/kakotvlive/brain.php
+
+雮氺嫓 TV,https://krtv.site/kakotvlive/kakotvlive27/fishingtv.php
+雮氺嫓 TV,https://krtv.site/kakotvlive/fishingtv.php
+
+雮挫厰雱愳鞓り犯霝橅斀,https://krtv.site/kakotvlive/kakotvlive27/national.php
+雮挫厰雱愳鞓り犯霝橅斀,https://krtv.site/kakotvlive/fishingtv.php
+
+霐旍姢旎る矂毽 ,https://krtv.site/kakotvlive/kakotvlive27/discovery.php
+霐旍姢旎る矂毽 ,https://krtv.site/kakotvlive/brain.php
+
+Nat Geo Wild,https://krtv.site/kakotvlive/kakotvlive27/natgeowild.php
+Nat Geo Wild,https://krtv.site/kakotvlive/nat_geo.php
+
+
+CBS,https://krtv.site/kakotvlive/kakotvlive27/cbs.php
+CBS,https://krtv.site/kakotvlive/cbs.php
+
+臧€韱Ν 韽夗檾氚╈啞,https://krtv.site/kakotvlive/kakotvlive27/cpbc.php
+臧€韱Ν 韽夗檾氚╈啞,https://krtv.site/kakotvlive/cpbc.php
+
+攵堦祼氚╈啞,https://krtv.site/kakotvlive/kakotvlive27/bbsi.php
+攵堦祼氚╈啞,https://krtv.site/kakotvlive/bbsi.php
+
+CNN,https://krtv.site/kakotvlive/kakotvlive27/cnn.php
+CNN,https://krtv.site/kakotvlive/cnn.php
+
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+BBC,https://krtv.site/kakotvlive/kakotvlive27/bbc.php
+BBC,https://krtv.site/kakotvlive/bbc.php
+
+
+NHK World,https://krtv.site/kakotvlive/kakotvlive27/nhkworld.php
+NHK World,https://krtv.site/kakotvlive/nhkworld.php
+
+CBS News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+
+
+鞓來檾毂勲剱01,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+鞓來檾毂勲剱02,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+
+
+
+
+
+
+
